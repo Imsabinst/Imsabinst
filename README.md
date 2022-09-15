@@ -20,4 +20,4 @@ I have knowledge on following tech stacks:
 
 
 
-Please check out my  <a href="https://www.linkedin.com/in/sabin-shrestha-02/" target="_blank">Linkden</a>. I would be happy to discuss further 😀. Thank you so much.
+Please check out my  <a href="https://www.linkedin.com/in/sabin-shrestha-02/" target="_blank">Linkden</a>. I would be happy to discuss further 😀. Thank you so much. 🙏
