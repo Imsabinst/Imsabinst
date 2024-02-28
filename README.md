@@ -14,6 +14,7 @@ I have knowledge on following tech stacks:
 - antd
 - git
 - aws
+- android
 
 
 Please check out my  <a href="https://www.linkedin.com/in/sabin-shrestha-02/" target="_blank">Linkdin</a>. Thank you so much. 🙏
