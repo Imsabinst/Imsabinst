@@ -17,4 +17,4 @@ I have knowledge on following tech stacks:
 - android
 
 
-Please check out my  <a href="https://www.linkedin.com/in/sabin-shrestha-02/" target="_blank">Linkdin</a>. Thank you so much. 🙏
+Please check out my  <a href="https://www.linkedin.com/in/sabin-shrestha-02/" target="_blank">Linkedin</a>. Thank you so much. 🙏
