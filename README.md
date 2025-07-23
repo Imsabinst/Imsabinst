@@ -39,7 +39,6 @@ I'm a Software Developer and Frontend Developer who loves crafting clean, effici
 
 - Git
 - Figma
-- REST APIs
 
 ---
 
