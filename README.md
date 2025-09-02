@@ -10,7 +10,7 @@ I'm a Software Developer and Frontend Developer who loves crafting clean, effici
 - 🌱 **Currently learning:** Azure
 - 👨‍💻 **Skills:** JavaScript, React, React Native, Node.js, TypeScript, Tailwind CSS, Android
 - 🔭 **Working on:** Building scalable web apps with smooth user experiences
-- 🌐 **Portfolio:** [sabinst]((https://sabins.space/))
+- 🌐 **Portfolio:** [sabinst](https://sabins.space/)
 
 ---
 
